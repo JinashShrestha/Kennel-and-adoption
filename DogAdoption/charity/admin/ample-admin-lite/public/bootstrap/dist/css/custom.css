@@ -1,0 +1,55 @@
+
+.zoom {
+    padding: 50px;
+    background-color: white;
+    transition: transform .2s; /* Animation */
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+/*.container {*/
+    /*position: relative;*/
+    /*width: 50%;*/
+/*}*/
+
+/*.image {*/
+    /*opacity: 1;*/
+    /*display: block;*/
+    /*width: 50%;*/
+    /*height: auto;*/
+    /*transition: .5s ease;*/
+    /*backface-visibility: hidden;*/
+/*}*/
+
+/*.middle {*/
+    /*transition: .5s ease;*/
+    /*opacity: 0;*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*margin-top: 50px;*/
+     /*transform: translate(-50%, -50%);*/
+    /*-ms-transform: translate(-50%, -50%);*/
+    /*text-align: center;*/
+    /*z-index: 2;*/
+/*}*/
+
+/*.container:hover .image {*/
+    /*opacity: 0.3;*/
+/*}*/
+
+/*.container:hover .middle {*/
+    /*opacity: 1;*/
+/*}*/
+
+/*.text {*/
+    /*background-color: GrayText;*/
+    /*color: white;*/
+    /*font-size: 16px;*/
+    /*padding: 16px 32px;*/
+/*}*/

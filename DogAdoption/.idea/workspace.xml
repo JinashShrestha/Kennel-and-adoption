@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/login/index.php" line="15" />
+    <bookmark url="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/donor.php" line="81" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bf9baa5-d9be-4253-a512-e0a781ce06bf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="search.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/charity/view/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <marker date="1543493727127" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+                <marker date="1543493727127" expanded="true" signature="611:633" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543493727127" expanded="true" signature="611:704" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543493727127" expanded="true" signature="611:736" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543493727127" expanded="true" signature="611:764" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543493727127" expanded="true" signature="611:795" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543493727127" expanded="true" signature="1115:1295" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543493727127" expanded="true" signature="1417:1518" ph="SELECT * Fro... tbl_dogs" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_dogs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/charity/view/view_dogs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+              <folding>
+                <marker date="1543549794770" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+                <marker date="1543549794770" expanded="true" signature="516:622" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543549794770" expanded="true" signature="1249:1396" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543549794770" expanded="true" signature="1620:1800" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543549794770" expanded="true" signature="1922:2023" ph="SELECT * Fro... tbl_dogs" />
+                <marker date="1543549794770" expanded="true" signature="3906:3964" ph="..." />
+                <marker date="1543549794770" expanded="true" signature="7484:7542" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/charity/database/connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>navbar-brand</find>
+      <find>navbar</find>
+      <find>html</find>
+      <find>upgra</find>
+      <find>font-aw</find>
+      <find>jq-toast</find>
+      <find>fix</find>
+      <find>&lt;div class=&quot;jq-toast-wrap top-right&quot;&gt;&lt;div class=&quot;jq-toast-single jq-has-icon jq-icon-warning&quot; style=&quot;text-align: left; display: none;&quot;&gt;&lt;span class=&quot;jq-toast-loader jq-toast-loaded&quot; style=&quot;-webkit-transition: width 3.1s ease-in;                       -o-transition: width 3.1s ease-in;                       transition: width 3.1s ease-in;                       background-color: #fff;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;close-jq-toast-single&quot;&gt;×&lt;/span&gt;&lt;h2 class=&quot;jq-toast-heading&quot;&gt;Welcome to Ample admin&lt;/h2&gt;Use the predefined ones, or specify a custom position object.&lt;/div&gt;&lt;/div&gt;</find>
+      <find>use the p</find>
+      <find>jq-toast-wrap top-right</find>
+      <find>$users</find>
+      <find>custom1</find>
+      <find>min</find>
+      <find>dog_result</find>
+      <find>dogs</find>
+      <find>invalid</find>
+      <find>tbl_buyer</find>
+      <find>$donors</find>
+      <find>.html</find>
+      <find>number_of_results</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>.php</replace>
+      <replace>$dogs</replace>
+      <replace>donors</replace>
+      <replace>tbl_customer</replace>
+      <replace>$adopt</replace>
+      <replace>$dog_result</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\charity\admin\ample-admin-lite\view</dir>
+      <dir>C:\xampp\htdocs\DogAdoption\charity</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/adminator" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/Php class/project7am/admin/view/pages/add_user.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/public/js/html5shiv.js" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/public/js/respond.min.js" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/public/bootstrap/dist/css/custom.css" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/edit_dog_image.php" />
+        <option value="$PROJECT_DIR$/charity/login/logout.php" />
+        <option value="$PROJECT_DIR$/charity/public/scss/style.scss" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/add_user.php" />
+        <option value="$PROJECT_DIR$/charity/public/bootstrap/js/custom.js" />
+        <option value="$PROJECT_DIR$/charity/layouts/footer.php" />
+        <option value="$PROJECT_DIR$/charity/login/404.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/login/404.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/add_breed.php" />
+        <option value="$PROJECT_DIR$/charity/database/database.sql" />
+        <option value="$PROJECT_DIR$/charity/view/about.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/public/js/radio.js" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/add_dogs.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/index.php" />
+        <option value="$PROJECT_DIR$/charity/public/bootstrap/css/custom.css" />
+        <option value="$PROJECT_DIR$/adopt/web/index.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/login/signup.php" />
+        <option value="$PROJECT_DIR$/charity/view/adopt/web/index.php" />
+        <option value="$PROJECT_DIR$/charity/view/form.php" />
+        <option value="$PROJECT_DIR$/charity/login/signup.php" />
+        <option value="$PROJECT_DIR$/charity/login/index.php" />
+        <option value="$PROJECT_DIR$/charity/system/redirect/logRedirect.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/layouts/header.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/layouts/header.php" />
+        <option value="$PROJECT_DIR$/charity/view/payment.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/public/js/custom1.js" />
+        <option value="$PROJECT_DIR$/charity/layouts/header.php" />
+        <option value="$PROJECT_DIR$/charity/layouts/header.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/404.php" />
+        <option value="$PROJECT_DIR$/charity/view/404.php" />
+        <option value="$PROJECT_DIR$/charity/layouts/header2.php" />
+        <option value="$PROJECT_DIR$/charity/view/gallery.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/login/index.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/login/index.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/logout.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/page.php" />
+        <option value="$PROJECT_DIR$/charity/view/search.php" />
+        <option value="$PROJECT_DIR$/charity/view/index.php" />
+        <option value="$PROJECT_DIR$/charity/view/view_dogs.php" />
+        <option value="$PROJECT_DIR$/charity/view/buy.php" />
+        <option value="$PROJECT_DIR$/charity/view/adopt.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/buyer.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/view_breed.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/adopter.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/donor.php" />
+        <option value="$PROJECT_DIR$/charity/admin/ample-admin-lite/view/view_dogs.php" />
+        <option value="$PROJECT_DIR$/charity/view/donate.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/admin/ample-admin-lite/plugins/bower_components/chartist-plugin-tooltip-master/package.json" />
+      <path value="$PROJECT_DIR$/admin/ample-admin-lite/plugins/bower_components/morrisjs/package.json" />
+      <path value="$PROJECT_DIR$/admin/ample-admin-lite/plugins/bower_components/sidebar-nav/package.json" />
+      <path value="$PROJECT_DIR$/admin/ample-admin-lite/view/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/admin2/Adminator-admin-dashboard-master/adminator/package.json" />
+      <path value="$PROJECT_DIR$/admin2/Adminator-admin-dashboard-master/package.json" />
+      <path value="$PROJECT_DIR$/admin2/adminator/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/Chart.js/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/DateJS/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/Flot/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/autosize/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/bootstrap-datetimepicker/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/bootstrap-progressbar/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/bootstrap-wysiwyg/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/cropper/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/devbridge-autocomplete/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/echarts/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/eve/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/flot-spline/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/jquery.easy-pie-chart/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/jqvmap/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/jszip/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/select2/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/starrr/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/switchery/package.json" />
+      <path value="$PROJECT_DIR$/admin3/gentelella-master/vendors/transitionize/package.json" />
+      <path value="$PROJECT_DIR$/adminator/package.json" />
+      <path value="$PROJECT_DIR$/charity/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="788" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DogAdoption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DogAdoption" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DogAdoption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DogAdoption" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="charity" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DogAdoption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DogAdoption" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="charity" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DogAdoption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DogAdoption" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="charity" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DogAdoption" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DogAdoption" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="charity" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="C:\xampp\htdocs\DogAdoption\adminator\node_modules\eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="SearchEverywhereHistoryKey" value="toast&#9;FILE&#9;file://C:/xampp/htdocs/DogAdoption/charity/admin/__MACOSX/ample-admin-lite/plugins/bower_components/toast-master/js/._jquery.toast.js&#10;toas&#9;FILE&#9;file://C:/xampp/htdocs/DogAdoption/charity/admin/ample-admin-lite/plugins/bower_components/toast-master/css/jquery.toast.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\admin\ample-admin-lite\view" />
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\view" />
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\admin\ample-admin-lite\login" />
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\public\img" />
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\view" />
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\public\js" />
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\public\img" />
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\admin\ample-admin-lite\login" />
+      <recent name="C:\xampp\htdocs\DogAdoption\charity\login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bf9baa5-d9be-4253-a512-e0a781ce06bf" name="Default" comment="" />
+      <created>1529155431470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529155431470</updated>
+      <workItem from="1529155445411" duration="7370000" />
+      <workItem from="1529202783351" duration="1058000" />
+      <workItem from="1529244217606" duration="2227000" />
+      <workItem from="1529285652694" duration="4138000" />
+      <workItem from="1529469820923" duration="1732000" />
+      <workItem from="1529472092755" duration="116000" />
+      <workItem from="1529506144474" duration="5637000" />
+      <workItem from="1529589015730" duration="771000" />
+      <workItem from="1529634623708" duration="1856000" />
+      <workItem from="1529677932778" duration="3872000" />
+      <workItem from="1529768428958" duration="706000" />
+      <workItem from="1529770315293" duration="1772000" />
+      <workItem from="1530328691297" duration="1608000" />
+      <workItem from="1530332812316" duration="1728000" />
+      <workItem from="1530334664239" duration="1750000" />
+      <workItem from="1530336706244" duration="1757000" />
+      <workItem from="1530338804152" duration="1746000" />
+      <workItem from="1530340603554" duration="689000" />
+      <workItem from="1530358523802" duration="825000" />
+      <workItem from="1530359608576" duration="992000" />
+      <workItem from="1530360924348" duration="42000" />
+      <workItem from="1530361709247" duration="188000" />
+      <workItem from="1530409476959" duration="4386000" />
+      <workItem from="1530450193582" duration="1671000" />
+      <workItem from="1530500497611" duration="3267000" />
+      <workItem from="1530634570265" duration="7918000" />
+      <workItem from="1530670657351" duration="3572000" />
+      <workItem from="1530677686950" duration="4059000" />
+      <workItem from="1530713002078" duration="6053000" />
+      <workItem from="1530755661906" duration="11065000" />
+      <workItem from="1530868772337" duration="757000" />
+      <workItem from="1531101773089" duration="6215000" />
+      <workItem from="1531193664503" duration="1950000" />
+      <workItem from="1531216632015" duration="2166000" />
+      <workItem from="1531232415145" duration="15921000" />
+      <workItem from="1531249898809" duration="1549000" />
+      <workItem from="1531251692724" duration="772000" />
+      <workItem from="1531252577610" duration="2000" />
+      <workItem from="1531285171009" duration="1612000" />
+      <workItem from="1532077190495" duration="3199000" />
+      <workItem from="1532095254303" duration="1926000" />
+      <workItem from="1532226637199" duration="1735000" />
+      <workItem from="1532312455184" duration="1444000" />
+      <workItem from="1532359958264" duration="9797000" />
+      <workItem from="1532444235385" duration="19931000" />
+      <workItem from="1532493397466" duration="1090000" />
+      <workItem from="1532523409673" duration="593000" />
+      <workItem from="1532613743881" duration="795000" />
+      <workItem from="1532666681938" duration="1345000" />
+      <workItem from="1532685257295" duration="328000" />
+      <workItem from="1532685608168" duration="1201000" />
+      <workItem from="1532753653800" duration="172000" />
+      <workItem from="1532927856513" duration="4135000" />
+      <workItem from="1532958594035" duration="11619000" />
+      <workItem from="1533259145305" duration="3422000" />
+      <workItem from="1533266671098" duration="919000" />
+      <workItem from="1533390553901" duration="73000" />
+      <workItem from="1533436818587" duration="6239000" />
+      <workItem from="1533454502790" duration="1052000" />
+      <workItem from="1533694700493" duration="6843000" />
+      <workItem from="1533705414026" duration="3975000" />
+      <workItem from="1533717253685" duration="864000" />
+      <workItem from="1533734712532" duration="4134000" />
+      <workItem from="1533781160748" duration="5549000" />
+      <workItem from="1534042493931" duration="8815000" />
+      <workItem from="1534143541489" duration="1274000" />
+      <workItem from="1535380545628" duration="615000" />
+      <workItem from="1535438332691" duration="4131000" />
+      <workItem from="1536046684713" duration="1433000" />
+      <workItem from="1536048536094" duration="693000" />
+      <workItem from="1536072654666" duration="1589000" />
+      <workItem from="1536074770007" duration="1033000" />
+      <workItem from="1536235805115" duration="374000" />
+      <workItem from="1536248917051" duration="7000000" />
+      <workItem from="1536409108627" duration="3173000" />
+      <workItem from="1536418888483" duration="2982000" />
+      <workItem from="1536458099361" duration="3671000" />
+      <workItem from="1536464763503" duration="243000" />
+      <workItem from="1536466499138" duration="272000" />
+      <workItem from="1536470344484" duration="208000" />
+      <workItem from="1536482049867" duration="607000" />
+      <workItem from="1536483052881" duration="937000" />
+      <workItem from="1536486119861" duration="613000" />
+      <workItem from="1537258414378" duration="1683000" />
+      <workItem from="1537260204479" duration="1746000" />
+      <workItem from="1537262035787" duration="434000" />
+      <workItem from="1537265734820" duration="2890000" />
+      <workItem from="1537268749229" duration="14000" />
+      <workItem from="1538566712803" duration="598000" />
+      <workItem from="1541869980282" duration="3000" />
+      <workItem from="1543412550883" duration="295000" />
+      <workItem from="1543459793072" duration="910000" />
+      <workItem from="1543464170166" duration="18000" />
+      <workItem from="1543480826190" duration="11898000" />
+      <workItem from="1543547691677" duration="861000" />
+      <workItem from="1543548926077" duration="2507000" />
+      <workItem from="1543656892902" duration="2262000" />
+      <workItem from="1544611720279" duration="3302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="276979000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20499243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6698873" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/charity/admin/CoolAdmin-master/layouts/footer.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/charity/view/view_dogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2451">
+          <caret line="129" column="76" lean-forward="true" selection-start-line="129" selection-start-column="76" selection-end-line="129" selection-end-column="76" />
+          <folding>
+            <marker date="1543549794770" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543549794770" expanded="true" signature="516:622" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1249:1396" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1620:1800" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1922:2023" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="3906:3964" ph="..." />
+            <marker date="1543549794770" expanded="true" signature="7484:7542" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/adopt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="83" column="58" lean-forward="true" selection-start-line="83" selection-start-column="58" selection-end-line="83" selection-end-column="58" />
+          <folding>
+            <marker date="1543551142089" expanded="true" signature="321:427" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551142089" expanded="true" signature="1054:1201" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551142089" expanded="true" signature="1673:1858" ph="INSERT INTO tbl_customer... " />
+            <marker date="1543551142089" expanded="true" signature="2081:2115" ph="DELETE FROM " />
+            <marker date="1543551142089" expanded="true" signature="3169:3227" ph="..." />
+            <marker date="1543551142089" expanded="true" signature="8214:8272" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1543551110684" expanded="true" signature="322:428" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551110684" expanded="true" signature="1055:1202" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551110684" expanded="true" signature="1702:1897" ph="INSERT INTO tbl_buyer... " />
+            <marker date="1543551110684" expanded="true" signature="2123:2157" ph="DELETE FROM " />
+            <marker date="1543551110684" expanded="true" signature="3094:3152" ph="..." />
+            <marker date="1543551110684" expanded="true" signature="8829:8887" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/donate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+          <folding>
+            <marker date="1543659109050" expanded="true" signature="1374:1493" ph="INSERT INTO tbl_donations... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543493727127" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543493727127" expanded="true" signature="611:633" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:704" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:736" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:764" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:795" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="1115:1295" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="1417:1518" ph="SELECT * Fro... tbl_dogs" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/view_dogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <marker date="1543549794770" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543549794770" expanded="true" signature="516:622" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1249:1396" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1620:1800" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1922:2023" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="3906:3964" ph="..." />
+            <marker date="1543549794770" expanded="true" signature="7484:7542" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/adopt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <marker date="1543551142089" expanded="true" signature="321:427" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551142089" expanded="true" signature="1054:1201" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551142089" expanded="true" signature="1673:1858" ph="INSERT INTO tbl_customer... " />
+            <marker date="1543551142089" expanded="true" signature="2081:2115" ph="DELETE FROM " />
+            <marker date="1543551142089" expanded="true" signature="3169:3227" ph="..." />
+            <marker date="1543551142089" expanded="true" signature="8214:8272" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543493727127" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543493727127" expanded="true" signature="611:633" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:704" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:736" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:764" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:795" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="1115:1295" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="1417:1518" ph="SELECT * Fro... tbl_dogs" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/view_dogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <marker date="1543549794770" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543549794770" expanded="true" signature="516:622" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1249:1396" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1620:1800" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1922:2023" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="3906:3964" ph="..." />
+            <marker date="1543549794770" expanded="true" signature="7484:7542" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543412694016" expanded="true" signature="409:481" ph="SELECT * FRO... tbl_admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543412694016" expanded="true" signature="409:481" ph="SELECT * FRO... tbl_admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <marker date="1543412694016" expanded="true" signature="409:481" ph="SELECT * FRO... tbl_admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/map-google.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/add_breed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/add_dogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/donor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543658870267" expanded="true" signature="418:472" ph="SELECT * Fro... tbl_donations" />
+            <marker date="1543658870267" expanded="true" signature="1087:1181" ph="SELECT * Fro... tbl_donations" />
+            <marker date="1543658870267" expanded="true" signature="5413:5472" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/fontawesome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/adopter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/map-google.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/add_breed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/add_dogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/fontawesome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <marker date="1543412694016" expanded="true" signature="409:481" ph="SELECT * FRO... tbl_admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="162" column="18" lean-forward="false" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/configuration/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/page.php" />
+    <entry file="file://$PROJECT_DIR$/charity/layouts/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/basic-table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="92" column="5" lean-forward="true" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/system/message/message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3154">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/buyer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="99" column="36" lean-forward="true" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+          <folding>
+            <marker date="1543658517227" expanded="true" signature="418:465" ph="SELECT * Fro... tbl_buyer" />
+            <marker date="1543658517227" expanded="true" signature="1080:1169" ph="SELECT * Fro... tbl_buyer" />
+            <marker date="1543658517227" expanded="true" signature="4639:4698" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/view_breed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="167" column="111" lean-forward="false" selection-start-line="167" selection-start-column="111" selection-end-line="167" selection-end-column="111" />
+          <folding>
+            <marker date="1543658713432" expanded="true" signature="418:465" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543658713432" expanded="true" signature="1088:1175" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543658713432" expanded="true" signature="1321:1359" ph="DELETE FROM " />
+            <marker date="1543658713432" expanded="true" signature="1803:1843" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543658713432" expanded="true" signature="2082:2149" ph="UPDATE tbl_b... " />
+            <marker date="1543658713432" expanded="true" signature="6197:6256" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/adopt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="83" column="58" lean-forward="false" selection-start-line="83" selection-start-column="58" selection-end-line="83" selection-end-column="58" />
+          <folding>
+            <marker date="1543551142089" expanded="true" signature="321:427" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551142089" expanded="true" signature="1054:1201" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551142089" expanded="true" signature="1673:1858" ph="INSERT INTO tbl_customer... " />
+            <marker date="1543551142089" expanded="true" signature="2081:2115" ph="DELETE FROM " />
+            <marker date="1543551142089" expanded="true" signature="3169:3227" ph="..." />
+            <marker date="1543551142089" expanded="true" signature="8214:8272" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/donate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="73" column="2" lean-forward="false" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
+          <folding>
+            <marker date="1543659109050" expanded="true" signature="1374:1493" ph="INSERT INTO tbl_donations... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/donor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="99" column="45" lean-forward="false" selection-start-line="99" selection-start-column="45" selection-end-line="99" selection-end-column="45" />
+          <folding>
+            <marker date="1543658870267" expanded="true" signature="418:472" ph="SELECT * Fro... tbl_donations" />
+            <marker date="1543658870267" expanded="true" signature="1087:1181" ph="SELECT * Fro... tbl_donations" />
+            <marker date="1543658870267" expanded="true" signature="5413:5472" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/adopter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="99" column="26" lean-forward="false" selection-start-line="99" selection-start-column="26" selection-end-line="103" selection-end-column="31" />
+          <folding>
+            <marker date="1543658626034" expanded="true" signature="418:471" ph="SELECT * Fro... tbl_customer" />
+            <marker date="1543658626034" expanded="true" signature="1086:1180" ph="SELECT * Fro... tbl_customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/admin/ample-admin-lite/view/view_dogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="337" column="134" lean-forward="false" selection-start-line="337" selection-start-column="134" selection-end-line="337" selection-end-column="134" />
+          <folding>
+            <marker date="1543658870327" expanded="true" signature="423:447" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543658870327" expanded="true" signature="511:617" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543658870327" expanded="true" signature="1244:1390" ph="SELECT * FRO... tbl_dogs" />
+            <marker date="1543658870327" expanded="true" signature="1549:1585" ph="SELECT * FRO... tbl_dogs" />
+            <marker date="1543658870327" expanded="true" signature="2024:2060" ph="SELECT * FRO... tbl_dogs" />
+            <marker date="1543658870327" expanded="true" signature="2375:2409" ph="DELETE FROM " />
+            <marker date="1543658870327" expanded="true" signature="3662:3721" ph="UPDATE tbl_d... " />
+            <marker date="1543658870327" expanded="true" signature="4329:4363" ph="DELETE FROM " />
+            <marker date="1543658870327" expanded="true" signature="4824:4882" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543658870327" expanded="true" signature="5817:5954" ph="UPDATE tbl_d... " />
+            <marker date="1543658870327" expanded="true" signature="15010:15069" ph="..." />
+            <marker date="1543658870327" expanded="true" signature="20929:20988" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1543551110684" expanded="true" signature="322:428" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551110684" expanded="true" signature="1055:1202" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543551110684" expanded="true" signature="1702:1897" ph="INSERT INTO tbl_buyer... " />
+            <marker date="1543551110684" expanded="true" signature="2123:2157" ph="DELETE FROM " />
+            <marker date="1543551110684" expanded="true" signature="3094:3152" ph="..." />
+            <marker date="1543551110684" expanded="true" signature="8829:8887" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/view_dogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding>
+            <marker date="1543549794770" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543549794770" expanded="true" signature="516:622" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1249:1396" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1620:1800" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="1922:2023" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543549794770" expanded="true" signature="3906:3964" ph="..." />
+            <marker date="1543549794770" expanded="true" signature="7484:7542" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/database/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charity/view/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <marker date="1543493727127" expanded="true" signature="428:452" ph="SELECT * FRO... tbl_breeds" />
+            <marker date="1543493727127" expanded="true" signature="611:633" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:704" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:736" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:764" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="611:795" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="1115:1295" ph="SELECT * Fro... tbl_dogs" />
+            <marker date="1543493727127" expanded="true" signature="1417:1518" ph="SELECT * Fro... tbl_dogs" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
